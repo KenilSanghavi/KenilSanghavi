@@ -42,7 +42,7 @@ Lab exercises and programs from my Python coursework covering core programming c
 **Frameworks:** Django, FastAPI  
 **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 **Tools:** Git, GitHub, MySQL, Jupyter Notebook  
-**Concepts:** Machine Learning, Data Analysis, REST APIs, RAG
+**Concepts:** Machine Learning, Data Analysis, REST APIs
 
 ---
 
