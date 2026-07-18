@@ -30,11 +30,7 @@ A collection of Jupyter Notebooks exploring machine learning concepts and experi
 
 ---
 
-### 🐍 [Python Semester 2 Lab](https://github.com/KenilSanghavi/python_sem2_lab)
-Lab exercises and programs from my Python coursework covering core programming concepts.
-- Tech: `Python`
 
----
 
 ## 🛠️ Skills
 
