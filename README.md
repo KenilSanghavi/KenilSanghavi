@@ -18,7 +18,7 @@
 - 💪 Created a **Fitness Tracker** with data analysis and visualization using pandas, matplotlib & seaborn
 - 🌱 Currently learning **advanced machine learning, model deployment, and full-stack web development**
 - 🤝 Open to collaboration on **Python, AI/ML, and data science projects**
-- 📍 Based in **India**
+
 
 ---
 
