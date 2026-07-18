@@ -26,7 +26,7 @@ A command-line fitness tracking application to log and analyze daily physical ac
 
 ### 🤖 [AI/ML Experiments](https://github.com/KenilSanghavi/AI-ML)
 A collection of Jupyter Notebooks exploring machine learning concepts and experiments.
-- Tech: `Python` `Jupyter Notebook` `scikit-learn`
+- Tech: `Python` `Jupyter Notebook` `numpy` `pandas`
 
 ---
 
